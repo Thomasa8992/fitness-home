@@ -1,0 +1,82 @@
+body{
+    background-color: white;
+}
+
+#home-bg{
+    position: relative;
+    height:800px;
+    width:1420px;
+    background-image: url("http://cdn.wallpapersafari.com/98/7/dOBCZa.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 110%;
+    margin-top: -22px;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+#bg-container{
+    color:coral;
+    text-align:center;    
+    
+}
+
+#bg-header{
+    font-size:64px;
+    line-height: 7;
+    
+}
+
+#bg-slogan{
+    font-size: 30px;
+    line-height: 0    
+}
+
+.symbols{
+    height: 230px;
+    width: 300px;
+    background-color: white;
+    /*display:inline;*/
+    position: relative;
+    /*border: 3px solid grey;*/
+    display:inline-block;
+    text-align: left;
+    font-size: 35px;
+}
+
+
+#ma-symbol{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Black_belt.svg/2000px-Black_belt.svg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+
+#weight-symbol{
+    background-image: url("https://d30y9cdsu7xlg0.cloudfront.net/png/773600-200.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#all-trainers{
+    background-image: url("https://d30y9cdsu7xlg0.cloudfront.net/png/499189-200.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.div-headers{
+    font-size: 34px;
+    text-align: center;
+    font-weight: bold;
+    color: coral;
+}
+
+.containers{
+    margin-top: 100px;
+    display:inline-block;
+    margin:40px;
+}
+
+#main-container{
+    width: 1200px;
+    margin: 0 auto;
+}
